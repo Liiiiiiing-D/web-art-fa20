@@ -1,0 +1,15 @@
+*{margin: 0;padding:o ;}
+
+html{
+    font-family:sans-serif ;
+}
+#page-title
+
+.container{
+    width: 80%;
+    margin: 0 auto; 居中
+    /* TRBL */
+    top right bottom left ;
+    /* transform: translate(-50%,50%)
+    rotate() scal()
+} */
